@@ -3,3 +3,11 @@ uvicorn
 pydantic
 requests
 httpx
+datasets
+huggingface-hub
+langchain-huggingface
+langchain-openai
+qdrant-client
+ragas
+requests
+organisation_utils @ git+https://github.com/semantic-hallucinations/semantic-hallucinations-utils.git
